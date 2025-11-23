@@ -1,0 +1,9 @@
+{
+  "name": "AutoGen",
+  "description": "A social car photography platform powered by Gemini 3.0 Pro, Nano Banana Pro, and Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
