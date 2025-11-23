@@ -18,6 +18,15 @@
 
 ---
 
+## 🎨 AI Studio in Action
+
+<div align="center">
+<img src="./images/ai studio.png" alt="AI Studio - Generate photorealistic automotive scenes" width="900">
+<p><em><strong>The Heart of AutoGen</strong> - Transform your car photos into professional automotive art with AI-powered style generation. Upload your car, select a style preset (Cyberpunk City, Snowy Mountain, Rally Stage, etc.), and watch Google Gemini 2.5 Flash create cinematic magic in seconds.</em></p>
+</div>
+
+---
+
 ## 📖 Table of Contents
 
 - [🎯 What is AutoGen Web?](#-what-is-autogen-web)
